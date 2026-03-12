@@ -3,39 +3,39 @@
         "user_id": "user_001",
         "favorite_colors": [
             "gris",
-            "noir",
-            "marron"
+            "marron",
+            "blanc"
         ],
         "favorite_orientation": "paysage",
-        "favorite_size": "moyenne",
+        "favorite_size": "grande",
         "favorite_tags": [
-            "moyenne",
+            "gris",
             "neutre",
             "paysage",
-            "gris",
-            "noir"
+            "blanc",
+            "marron"
         ],
         "favorite_images": [
-            "image_002.jpg",
-            "image_011.jpg",
-            "image_045.jpg",
-            "image_013.jpg",
-            "image_010.jpg",
-            "image_009.jpg",
-            "image_003.jpg",
-            "image_057.jpg",
+            "image_017.jpg",
             "image_001.jpg",
-            "image_041.jpg",
-            "image_050.jpg",
-            "image_032.jpg",
-            "image_055.jpg",
-            "image_035.jpg",
-            "image_025.jpg",
-            "image_018.jpg",
-            "image_058.jpg",
-            "image_047.jpg",
-            "image_008.jpg",
-            "image_052.jpg"
+            "image_016.jpg",
+            "image_052.jpg",
+            "image_050.png",
+            "image_047.png",
+            "image_021.png",
+            "image_029.jpg",
+            "image_014.jpg",
+            "image_009.jpg",
+            "image_024.jpg",
+            "image_092.jpg",
+            "image_013.jpg",
+            "image_100.jpg",
+            "image_076.png",
+            "image_007.jpg",
+            "image_030.jpg",
+            "image_019.jpg",
+            "image_044.jpg",
+            "image_026.jpg"
         ]
     },
     {
@@ -43,36 +43,36 @@
         "favorite_colors": [
             "gris",
             "blanc",
-            "noir"
+            "vert"
         ],
         "favorite_orientation": "paysage",
-        "favorite_size": "moyenne",
+        "favorite_size": "grande",
         "favorite_tags": [
-            "moyenne",
             "neutre",
-            "paysage",
             "gris",
-            "blanc"
+            "blanc",
+            "paysage",
+            "vert"
         ],
         "favorite_images": [
-            "image_021.jpg",
+            "image_073.jpg",
+            "image_014.jpg",
+            "image_066.jpg",
             "image_016.jpg",
-            "image_017.jpg",
-            "image_056.jpg",
-            "image_030.jpg",
-            "image_025.jpg",
-            "image_028.jpg",
-            "image_015.jpg",
-            "image_006.jpg",
-            "image_058.jpg",
-            "image_008.jpg",
-            "image_020.jpg",
-            "image_080.jpg",
-            "image_012.jpg",
-            "image_050.jpg",
-            "image_039.jpg",
-            "image_007.jpg",
-            "image_001.jpg"
+            "image_096.png",
+            "image_081.jpg",
+            "image_092.jpg",
+            "image_065.jpg",
+            "image_051.png",
+            "image_021.png",
+            "image_054.jpg",
+            "image_072.png",
+            "image_026.jpg",
+            "image_013.jpg",
+            "image_009.jpg",
+            "image_011.png",
+            "image_052.jpg",
+            "image_043.jpg"
         ]
     },
     {
@@ -83,29 +83,29 @@
             "blanc"
         ],
         "favorite_orientation": "paysage",
-        "favorite_size": "moyenne",
+        "favorite_size": "grande",
         "favorite_tags": [
             "gris",
-            "moyenne",
             "neutre",
-            "paysage",
-            "noir"
+            "noir",
+            "grande",
+            "blanc"
         ],
         "favorite_images": [
-            "image_020.jpg",
-            "image_030.jpg",
-            "image_012.jpg",
-            "image_065.jpg",
-            "image_014.jpg",
-            "image_013.jpg",
-            "image_069.jpg",
-            "image_032.jpg",
-            "image_067.jpg",
+            "image_027.jpg",
+            "image_036.jpg",
             "image_022.jpg",
-            "image_092.jpg",
+            "image_059.jpg",
+            "image_008.jpg",
+            "image_004.png",
+            "image_065.jpg",
+            "image_037.jpg",
+            "image_062.png",
+            "image_025.jpg",
+            "image_007.jpg",
             "image_042.jpg",
-            "image_082.jpg",
-            "image_009.jpg"
+            "image_057.jpg",
+            "image_017.jpg"
         ]
     },
     {
@@ -115,66 +115,66 @@
             "blanc",
             "marron"
         ],
-        "favorite_orientation": "paysage",
-        "favorite_size": "moyenne",
+        "favorite_orientation": "portrait",
+        "favorite_size": "grande",
         "favorite_tags": [
-            "moyenne",
             "neutre",
-            "paysage",
+            "gris",
             "blanc",
-            "gris"
+            "noir",
+            "portrait"
         ],
         "favorite_images": [
-            "image_032.jpg",
-            "image_005.jpg",
-            "image_022.jpg",
-            "image_003.jpg",
-            "image_033.jpg",
-            "image_016.jpg",
-            "image_052.jpg",
-            "image_039.jpg",
-            "image_038.jpg",
-            "image_021.jpg",
+            "image_079.png",
+            "image_023.jpg",
+            "image_073.jpg",
+            "image_015.jpg",
+            "image_001.jpg",
+            "image_057.jpg",
+            "image_029.jpg",
+            "image_009.jpg",
+            "image_008.jpg",
+            "image_071.jpg",
+            "image_002.png",
             "image_034.jpg",
-            "image_010.jpg",
-            "image_044.jpg",
-            "image_002.jpg",
-            "image_066.jpg",
-            "image_041.jpg",
-            "image_012.jpg"
+            "image_017.jpg",
+            "image_011.png",
+            "image_005.png",
+            "image_013.jpg",
+            "image_036.jpg"
         ]
     },
     {
         "user_id": "user_005",
         "favorite_colors": [
             "gris",
-            "marron",
-            "blanc"
+            "blanc",
+            "marron"
         ],
-        "favorite_orientation": "paysage",
-        "favorite_size": "moyenne",
+        "favorite_orientation": "carre",
+        "favorite_size": "grande",
         "favorite_tags": [
-            "moyenne",
             "neutre",
-            "paysage",
             "gris",
-            "blanc"
+            "blanc",
+            "marron",
+            "carre"
         ],
         "favorite_images": [
-            "image_046.jpg",
-            "image_048.jpg",
+            "image_039.png",
+            "image_051.png",
             "image_003.jpg",
-            "image_049.jpg",
-            "image_051.jpg",
-            "image_014.jpg",
+            "image_052.jpg",
+            "image_048.png",
+            "image_015.jpg",
             "image_006.jpg",
-            "image_019.jpg",
-            "image_032.jpg",
+            "image_022.jpg",
+            "image_034.jpg",
             "image_013.jpg",
-            "image_079.jpg",
-            "image_043.jpg",
+            "image_077.png",
+            "image_045.jpg",
             "image_012.jpg",
-            "image_001.jpg"
+            "image_002.png"
         ]
     }
 ]
