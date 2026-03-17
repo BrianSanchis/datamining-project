@@ -2,211 +2,211 @@
     "user_001": [
         {
             "image": "image_060.jpg",
-            "reason": "Score 17 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Même categorie de taille | Tags communs: ['marron', 'paysage', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 17 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['marron', 'paysage', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_074.jpg",
-            "reason": "Score 17 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Même categorie de taille | Tags communs: ['marron', 'paysage', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 17 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['marron', 'paysage', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_022.jpg",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Tags communs: ['marron', 'paysage', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Tags communs: ['marron', 'paysage', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_051.png",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Tags communs: ['marron', 'paysage', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Tags communs: ['marron', 'paysage', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_061.jpg",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Tags communs: ['marron', 'paysage', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Tags communs: ['marron', 'paysage', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_006.jpg",
-            "reason": "Score 14 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même categorie de taille | Tags communs: ['blanc', 'neutre', 'marron', 'gris']"
+            "reason": "Score 14 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même catégorie de taille | Tags communs: ['blanc', 'marron', 'gris', 'neutre']"
         },
         {
             "image": "image_056.png",
-            "reason": "Score 14 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même categorie de taille | Tags communs: ['blanc', 'neutre', 'marron', 'gris']"
+            "reason": "Score 14 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même catégorie de taille | Tags communs: ['blanc', 'marron', 'gris', 'neutre']"
         },
         {
             "image": "image_085.png",
-            "reason": "Score 14 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même categorie de taille | Tags communs: ['blanc', 'neutre', 'marron', 'gris']"
+            "reason": "Score 14 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même catégorie de taille | Tags communs: ['blanc', 'marron', 'gris', 'neutre']"
         },
         {
             "image": "image_086.png",
-            "reason": "Score 14 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même categorie de taille | Tags communs: ['blanc', 'neutre', 'marron', 'gris']"
+            "reason": "Score 14 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même catégorie de taille | Tags communs: ['blanc', 'marron', 'gris', 'neutre']"
         },
         {
             "image": "image_008.jpg",
-            "reason": "Score 13 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même categorie de taille | Tags communs: ['paysage', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 13 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['blanc', 'gris', 'paysage', 'neutre']"
         }
     ],
     "user_002": [
         {
             "image": "image_041.jpg",
-            "reason": "Score 17 | Couleurs communes: ['gris', 'vert', 'blanc'] | Même orientation | Même categorie de taille | Tags communs: ['paysage', 'vert', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 17 | Couleurs communes: ['gris', 'blanc', 'vert'] | Même orientation | Même catégorie de taille | Tags communs: ['vert', 'paysage', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_089.jpg",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'vert', 'blanc'] | Même orientation | Tags communs: ['paysage', 'vert', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'vert'] | Même orientation | Tags communs: ['vert', 'paysage', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_091.jpg",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'vert', 'blanc'] | Même orientation | Tags communs: ['paysage', 'vert', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'vert'] | Même orientation | Tags communs: ['vert', 'paysage', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_015.jpg",
-            "reason": "Score 14 | Couleurs communes: ['gris', 'vert', 'blanc'] | Même categorie de taille | Tags communs: ['gris', 'vert', 'blanc', 'neutre']"
+            "reason": "Score 14 | Couleurs communes: ['vert', 'gris', 'blanc'] | Même catégorie de taille | Tags communs: ['gris', 'neutre', 'blanc', 'vert']"
         },
         {
             "image": "image_040.jpg",
-            "reason": "Score 14 | Couleurs communes: ['gris', 'vert', 'blanc'] | Même categorie de taille | Tags communs: ['gris', 'vert', 'blanc', 'neutre']"
+            "reason": "Score 14 | Couleurs communes: ['gris', 'blanc', 'vert'] | Même catégorie de taille | Tags communs: ['gris', 'neutre', 'blanc', 'vert']"
         },
         {
             "image": "image_008.jpg",
-            "reason": "Score 13 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même categorie de taille | Tags communs: ['paysage', 'gris', 'blanc', 'neutre']"
+            "reason": "Score 13 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['blanc', 'gris', 'paysage', 'neutre']"
         },
         {
             "image": "image_044.jpg",
-            "reason": "Score 13 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même categorie de taille | Tags communs: ['paysage', 'gris', 'blanc', 'neutre']"
+            "reason": "Score 13 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['blanc', 'gris', 'paysage', 'neutre']"
         },
         {
             "image": "image_059.jpg",
-            "reason": "Score 13 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même categorie de taille | Tags communs: ['paysage', 'gris', 'blanc', 'neutre']"
+            "reason": "Score 13 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['blanc', 'gris', 'paysage', 'neutre']"
         },
         {
             "image": "image_060.jpg",
-            "reason": "Score 13 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même categorie de taille | Tags communs: ['paysage', 'gris', 'blanc', 'neutre']"
+            "reason": "Score 13 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['blanc', 'gris', 'paysage', 'neutre']"
         },
         {
             "image": "image_068.jpg",
-            "reason": "Score 13 | Couleurs communes: ['gris', 'vert', 'blanc'] | Tags communs: ['gris', 'vert', 'blanc', 'neutre']"
+            "reason": "Score 13 | Couleurs communes: ['vert', 'gris', 'blanc'] | Tags communs: ['gris', 'neutre', 'blanc', 'vert']"
         }
     ],
     "user_003": [
         {
             "image": "image_060.jpg",
-            "reason": "Score 17 | Couleurs communes: ['gris', 'blanc', 'noir'] | Même orientation | Même categorie de taille | Tags communs: ['noir', 'blanc', 'neutre', 'grande', 'gris']"
+            "reason": "Score 17 | Couleurs communes: ['noir', 'gris', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['grande', 'noir', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_074.jpg",
-            "reason": "Score 17 | Couleurs communes: ['gris', 'blanc', 'noir'] | Même orientation | Même categorie de taille | Tags communs: ['noir', 'blanc', 'neutre', 'grande', 'gris']"
+            "reason": "Score 17 | Couleurs communes: ['noir', 'gris', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['grande', 'noir', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_092.jpg",
-            "reason": "Score 17 | Couleurs communes: ['gris', 'blanc', 'noir'] | Même orientation | Même categorie de taille | Tags communs: ['noir', 'blanc', 'neutre', 'grande', 'gris']"
+            "reason": "Score 17 | Couleurs communes: ['noir', 'gris', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['grande', 'noir', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_030.jpg",
-            "reason": "Score 15 | Couleurs communes: ['gris', 'blanc', 'noir'] | Même categorie de taille | Tags communs: ['noir', 'blanc', 'neutre', 'grande', 'gris']"
+            "reason": "Score 15 | Couleurs communes: ['noir', 'gris', 'blanc'] | Même catégorie de taille | Tags communs: ['grande', 'noir', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_040.jpg",
-            "reason": "Score 15 | Couleurs communes: ['gris', 'blanc', 'noir'] | Même categorie de taille | Tags communs: ['noir', 'blanc', 'neutre', 'grande', 'gris']"
+            "reason": "Score 15 | Couleurs communes: ['noir', 'gris', 'blanc'] | Même catégorie de taille | Tags communs: ['grande', 'noir', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_043.jpg",
-            "reason": "Score 15 | Couleurs communes: ['gris', 'blanc', 'noir'] | Même orientation | Tags communs: ['gris', 'blanc', 'noir', 'neutre']"
+            "reason": "Score 15 | Couleurs communes: ['noir', 'gris', 'blanc'] | Même orientation | Tags communs: ['noir', 'gris', 'blanc', 'neutre']"
         },
         {
             "image": "image_047.png",
-            "reason": "Score 15 | Couleurs communes: ['gris', 'blanc', 'noir'] | Même orientation | Tags communs: ['gris', 'blanc', 'noir', 'neutre']"
+            "reason": "Score 15 | Couleurs communes: ['noir', 'gris', 'blanc'] | Même orientation | Tags communs: ['noir', 'gris', 'blanc', 'neutre']"
         },
         {
             "image": "image_058.png",
-            "reason": "Score 15 | Couleurs communes: ['gris', 'blanc', 'noir'] | Même orientation | Tags communs: ['gris', 'blanc', 'noir', 'neutre']"
+            "reason": "Score 15 | Couleurs communes: ['noir', 'gris', 'blanc'] | Même orientation | Tags communs: ['noir', 'gris', 'blanc', 'neutre']"
         },
         {
             "image": "image_061.jpg",
-            "reason": "Score 15 | Couleurs communes: ['gris', 'blanc', 'noir'] | Même orientation | Tags communs: ['gris', 'blanc', 'noir', 'neutre']"
+            "reason": "Score 15 | Couleurs communes: ['noir', 'gris', 'blanc'] | Même orientation | Tags communs: ['noir', 'gris', 'blanc', 'neutre']"
         },
         {
             "image": "image_069.png",
-            "reason": "Score 15 | Couleurs communes: ['gris', 'blanc', 'noir'] | Même categorie de taille | Tags communs: ['noir', 'blanc', 'neutre', 'grande', 'gris']"
+            "reason": "Score 15 | Couleurs communes: ['noir', 'gris', 'blanc'] | Même catégorie de taille | Tags communs: ['grande', 'noir', 'neutre', 'gris', 'blanc']"
         }
     ],
     "user_004": [
         {
             "image": "image_018.jpg",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Tags communs: ['noir', 'portrait', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Tags communs: ['noir', 'portrait', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_056.png",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Même categorie de taille | Tags communs: ['gris', 'portrait', 'blanc', 'neutre']"
+            "reason": "Score 16 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['portrait', 'gris', 'blanc', 'neutre']"
         },
         {
             "image": "image_067.jpg",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Tags communs: ['noir', 'portrait', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Tags communs: ['noir', 'portrait', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_098.png",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Tags communs: ['noir', 'portrait', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Tags communs: ['noir', 'portrait', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_033.png",
-            "reason": "Score 15 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Tags communs: ['gris', 'portrait', 'blanc', 'neutre']"
+            "reason": "Score 15 | Couleurs communes: ['marron', 'gris', 'blanc'] | Même orientation | Tags communs: ['portrait', 'gris', 'blanc', 'neutre']"
         },
         {
             "image": "image_004.png",
-            "reason": "Score 14 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même categorie de taille | Tags communs: ['noir', 'portrait', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 14 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['noir', 'portrait', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_030.jpg",
-            "reason": "Score 14 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même categorie de taille | Tags communs: ['gris', 'blanc', 'noir', 'neutre']"
+            "reason": "Score 14 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même catégorie de taille | Tags communs: ['noir', 'gris', 'blanc', 'neutre']"
         },
         {
             "image": "image_060.jpg",
-            "reason": "Score 14 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même categorie de taille | Tags communs: ['gris', 'blanc', 'noir', 'neutre']"
+            "reason": "Score 14 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même catégorie de taille | Tags communs: ['noir', 'gris', 'blanc', 'neutre']"
         },
         {
             "image": "image_074.jpg",
-            "reason": "Score 14 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même categorie de taille | Tags communs: ['gris', 'blanc', 'noir', 'neutre']"
+            "reason": "Score 14 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même catégorie de taille | Tags communs: ['noir', 'gris', 'blanc', 'neutre']"
         },
         {
             "image": "image_077.png",
-            "reason": "Score 14 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même categorie de taille | Tags communs: ['noir', 'portrait', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 14 | Couleurs communes: ['gris', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['noir', 'portrait', 'neutre', 'gris', 'blanc']"
         }
     ],
     "user_005": [
         {
             "image": "image_030.jpg",
-            "reason": "Score 17 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Même categorie de taille | Tags communs: ['marron', 'carre', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 17 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['marron', 'carre', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_085.png",
-            "reason": "Score 17 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Même categorie de taille | Tags communs: ['marron', 'carre', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 17 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['marron', 'carre', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_086.png",
-            "reason": "Score 17 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Même categorie de taille | Tags communs: ['marron', 'carre', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 17 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Même catégorie de taille | Tags communs: ['marron', 'carre', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_020.png",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Tags communs: ['marron', 'carre', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['marron', 'gris', 'blanc'] | Même orientation | Tags communs: ['marron', 'carre', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_024.jpg",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Tags communs: ['marron', 'carre', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['marron', 'gris', 'blanc'] | Même orientation | Tags communs: ['marron', 'carre', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_031.jpg",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Tags communs: ['marron', 'carre', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Tags communs: ['marron', 'carre', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_063.jpg",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Tags communs: ['marron', 'carre', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Tags communs: ['marron', 'carre', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_083.png",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Tags communs: ['marron', 'carre', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['marron', 'gris', 'blanc'] | Même orientation | Tags communs: ['marron', 'carre', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_095.png",
-            "reason": "Score 16 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même orientation | Tags communs: ['marron', 'carre', 'blanc', 'neutre', 'gris']"
+            "reason": "Score 16 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même orientation | Tags communs: ['marron', 'carre', 'neutre', 'gris', 'blanc']"
         },
         {
             "image": "image_044.jpg",
-            "reason": "Score 14 | Couleurs communes: ['gris', 'blanc', 'marron'] | Même categorie de taille | Tags communs: ['gris', 'blanc', 'marron', 'neutre']"
+            "reason": "Score 14 | Couleurs communes: ['gris', 'marron', 'blanc'] | Même catégorie de taille | Tags communs: ['blanc', 'marron', 'gris', 'neutre']"
         }
     ]
 }
